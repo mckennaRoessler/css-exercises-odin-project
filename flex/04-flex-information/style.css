@@ -1,5 +1,16 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.plants {
+  display: flex;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+.plant {
+  margin: 10px;
 }
 
 img {
